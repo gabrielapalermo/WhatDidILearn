@@ -27,6 +27,11 @@ class DataBaseItems {
                     "É a classe base para layouts e contêineres de views.",
             Level.HIGH
         )
+        val itemFive = ItemLearned(
+            "View Binding",
+            "ViewBinding é um recurso que facilita a programação de códigos que interagem com views.",
+            Level.HIGH
+        )
 
         return listOf(itemOne,itemTwo,itemThree,itemFour)
     }
