@@ -7,13 +7,13 @@ class DataBaseItems {
         val itemOne = ItemLearned(
             "Kotlin - Null safety",
             "O sistema de tipos de Kotlin visa eliminar o perigo de referências nulas do código",
-            Level.HIGH
+            Level.LOW
             )
         val itemTwo = ItemLearned(
             "Layout editor",
             "O Design Editor exibe o layout em vários dispositivos e versões do Android." +
                     "É possível criar e editar um layout usando apenas componentes visuais.",
-            Level.HIGH
+            Level.MEDIUM
         )
         val itemThree = ItemLearned(
             "Git",
