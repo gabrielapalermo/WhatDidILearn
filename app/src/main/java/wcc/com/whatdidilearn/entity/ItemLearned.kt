@@ -1,6 +1,6 @@
 package wcc.com.whatdidilearn.entity
 
-import android.icu.text.IDNA
+
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
